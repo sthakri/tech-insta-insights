@@ -1,0 +1,965 @@
+[
+    {
+        "username": "techie_soma",
+        "no_of_posts": 385,
+        "no_of_followers": 12300,
+        "no_of_following": 420,
+        "name": "Marcus T.",
+        "type_of_page": "Software Engineer",
+        "bio": "\ud83d\udcbb Full-stack @ Tech Startup\n\u2615 Working from SoMa coffee shops\ngithub.com/marcusbuilds"
+    },
+    {
+        "username": "sf_coder_girl",
+        "no_of_posts": 210,
+        "no_of_followers": 8900,
+        "no_of_following": 180,
+        "name": "Sarah Chen",
+        "type_of_page": "Tech Creator",
+        "bio": "\ud83d\udc69\u200d\ud83d\udcbb React | AI | Career Tips\n\ud83c\udfa5 Coding Tutorials + Tech Vlogs\nlinktr.ee/sarahcodes"
+    },
+    {
+        "username": "silicon_valley_stories",
+        "no_of_posts": 1120,
+        "no_of_followers": 34500,
+        "no_of_following": 110,
+        "name": "Silicon Valley Tales",
+        "type_of_page": "Media",
+        "bio": "\ud83d\ude80 Interviews with Bay Area founders\n\ud83c\udf99\ufe0f Weekly startup deep dives\nsvstories.com"
+    },
+    {
+        "username": "cloud_dev_seattle",
+        "no_of_posts": 340,
+        "no_of_followers": 6200,
+        "no_of_following": 85,
+        "name": "Jake Morrison",
+        "type_of_page": "Engineer",
+        "bio": "\u2601\ufe0f AWS | Kubernetes | Terraform\n\ud83d\udccd Seattle\ngithub.com/jakecloud"
+    },
+    {
+        "username": "austin_coffee_coder",
+        "no_of_posts": 280,
+        "no_of_followers": 9400,
+        "no_of_following": 210,
+        "name": "Emma Rodriguez",
+        "type_of_page": "Cafe Explorer",
+        "bio": "\u2615 Reviewing Austin's best coding cafes\n\ud83d\udccd East Austin\nyoutube.com/@emmacafecodes"
+    },
+    {
+        "username": "ai_sanfrancisco_news",
+        "no_of_posts": 1580,
+        "no_of_followers": 52000,
+        "no_of_following": 310,
+        "name": "AI San Francisco",
+        "type_of_page": "Media",
+        "bio": "\ud83e\udd16 Daily AI news from Silicon Valley\n\ud83d\udce2 Startup & tech updates\naisanfrancisco.com/news"
+    },
+    {
+        "username": "techfounder_nyc",
+        "no_of_posts": 190,
+        "no_of_followers": 24000,
+        "no_of_following": 580,
+        "name": "David Kim",
+        "type_of_page": "Founder",
+        "bio": "\u26a1 Building SaaS in FinTech\n\ud83d\udccd Manhattan\ndavidkim.io"
+    },
+    {
+        "username": "coder_in_traffic",
+        "no_of_posts": 82,
+        "no_of_followers": 2400,
+        "no_of_following": 95,
+        "name": "Tyler Brooks",
+        "type_of_page": "Backend Developer",
+        "bio": "\ud83d\udc0d Python | Django enthusiast\n\ud83d\ude97 Surviving LA traffic\ngithub.com/tylerbackend"
+    },
+    {
+        "username": "seattle_datascience_daily",
+        "no_of_posts": 620,
+        "no_of_followers": 19800,
+        "no_of_following": 220,
+        "name": "Seattle DS Daily",
+        "type_of_page": "Media",
+        "bio": "\ud83d\udcca Data + AI + ML\n\ud83d\udc69\u200d\ud83c\udfeb Tutorials | Job alerts\nseattledatascience.io"
+    },
+    {
+        "username": "frontend_with_lisa",
+        "no_of_posts": 195,
+        "no_of_followers": 10500,
+        "no_of_following": 130,
+        "name": "Lisa Anderson",
+        "type_of_page": "Frontend Dev",
+        "bio": "\ud83c\udfa8 Vue | React | Design Systems\n\ud83c\udf38 Portland\nlisacodes.dev"
+    },
+    {
+        "username": "central_park_runner",
+        "no_of_posts": 110,
+        "no_of_followers": 2100,
+        "no_of_following": 55,
+        "name": "Chris Walker",
+        "type_of_page": "Lifestyle",
+        "bio": "\ud83c\udfc3 Running after coding\n\ud83d\udccd Central Park NYC\nstrava.com/chrisrunning"
+    },
+    {
+        "username": "brooklyn_food_tech",
+        "no_of_posts": 720,
+        "no_of_followers": 16700,
+        "no_of_following": 240,
+        "name": "Brooklyn Food Maps",
+        "type_of_page": "Food & Drink",
+        "bio": "\ud83c\udf5c Best spots around Brooklyn tech scene\n\ud83d\udccd New York\nbrooklynfoodmaps.com"
+    },
+    {
+        "username": "python_sf_jobs",
+        "no_of_posts": 1450,
+        "no_of_followers": 28000,
+        "no_of_following": 25,
+        "name": "Python Jobs SF",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcbc Python/ML/AI jobs daily\n\ud83d\udccd San Francisco\npythonsf.jobs"
+    },
+    {
+        "username": "austin_fullstack_dev",
+        "no_of_posts": 165,
+        "no_of_followers": 4800,
+        "no_of_following": 78,
+        "name": "Miguel Santos",
+        "type_of_page": "Full-stack Dev",
+        "bio": "\ud83e\uddd1\u200d\ud83d\udcbb MERN | Next.js | DevOps\nCurrently building from Austin\nmiguelsantos.dev"
+    },
+    {
+        "username": "opensource_seattle",
+        "no_of_posts": 380,
+        "no_of_followers": 12400,
+        "no_of_following": 110,
+        "name": "Seattle Open Source",
+        "type_of_page": "Community",
+        "bio": "\ud83c\udf10 Meetups | Talks | OSS\ngithub.com/seattleoss"
+    },
+    {
+        "username": "techwalk_sf",
+        "no_of_posts": 510,
+        "no_of_followers": 14200,
+        "no_of_following": 450,
+        "name": "Tech Walk San Francisco",
+        "type_of_page": "Media",
+        "bio": "\ud83d\udeb6 Exploring tech offices & cafes\n\ud83d\udccd Financial District | SOMA\ntechwalk.sf.com"
+    },
+    {
+        "username": "google_campus_daily",
+        "no_of_posts": 680,
+        "no_of_followers": 18900,
+        "no_of_following": 280,
+        "name": "Mountain View Daily",
+        "type_of_page": "Blog",
+        "bio": "\ud83c\udfe2 Inside Silicon Valley Life\n\ud83d\ude8c Campus stories included\nmedium.com/@mtvdaily"
+    },
+    {
+        "username": "react_native_sf",
+        "no_of_posts": 275,
+        "no_of_followers": 6300,
+        "no_of_following": 88,
+        "name": "RN San Francisco",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcf1 React Native Tips | Meetups\nrnsf.dev"
+    },
+    {
+        "username": "founder_sketches",
+        "no_of_posts": 95,
+        "no_of_followers": 3100,
+        "no_of_following": 32,
+        "name": "Alex Chen",
+        "type_of_page": "Artist + Coder",
+        "bio": "\u270f\ufe0f Startup illustrations\n\ud83d\udcbb YC alumnus\nalexsketches.com"
+    },
+    {
+        "username": "sf_productmanager",
+        "no_of_posts": 185,
+        "no_of_followers": 9200,
+        "no_of_following": 150,
+        "name": "Rachel | PM",
+        "type_of_page": "Product Manager",
+        "bio": "\ud83d\udccd San Francisco\n\ud83d\udd0d Product teardowns\nrachelpm.com"
+    },
+    {
+        "username": "machinelearning_seattle",
+        "no_of_posts": 560,
+        "no_of_followers": 22400,
+        "no_of_following": 190,
+        "name": "ML Seattle",
+        "type_of_page": "Community",
+        "bio": "\ud83e\udd16 Workshops | Resources\nmlseattle.io"
+    },
+    {
+        "username": "nyc_startup_recruiter",
+        "no_of_posts": 148,
+        "no_of_followers": 7800,
+        "no_of_following": 420,
+        "name": "Jessica HR",
+        "type_of_page": "Recruiter",
+        "bio": "\ud83e\udd84 Hiring for early-stage startups\n\ud83d\udccd New York City\njessicarecruit.io"
+    },
+    {
+        "username": "coffeeandcode_austin",
+        "no_of_posts": 89,
+        "no_of_followers": 1850,
+        "no_of_following": 62,
+        "name": "Brandon Lee",
+        "type_of_page": "Developer",
+        "bio": "\u2615 Coffee + VSCode = Happiness\n\ud83d\udccd South Congress\ngithub.com/brandonaustin"
+    },
+    {
+        "username": "uiux_sf_design",
+        "no_of_posts": 245,
+        "no_of_followers": 12800,
+        "no_of_following": 175,
+        "name": "UI/UX San Francisco",
+        "type_of_page": "Design",
+        "bio": "\ud83c\udfa8 Case studies, tips, mock UI\nuiuxsf.design"
+    },
+    {
+        "username": "portland_cafe_explorer",
+        "no_of_posts": 540,
+        "no_of_followers": 10200,
+        "no_of_following": 340,
+        "name": "Olivia Park",
+        "type_of_page": "Cafe Nerd",
+        "bio": "\u2615 Portland cafes & reading corners\n\ud83d\udcd8 Book recommendations\nportlandreads.com"
+    },
+    {
+        "username": "jslover_nyc",
+        "no_of_posts": 135,
+        "no_of_followers": 5400,
+        "no_of_following": 48,
+        "name": "Nathan Ross",
+        "type_of_page": "Engineer",
+        "bio": "\u26a1 JavaScript everything\n\ud83d\udccd Brooklyn\ngithub.com/nathanjs"
+    },
+    {
+        "username": "la_autotech_talk",
+        "no_of_posts": 385,
+        "no_of_followers": 11700,
+        "no_of_following": 380,
+        "name": "AutoTech LA",
+        "type_of_page": "Media",
+        "bio": "\ud83d\ude97 EVs | Autonomous | Mobility\n\ud83d\udccd Los Angeles\nautotechla.com"
+    },
+    {
+        "username": "deeptech_usa",
+        "no_of_posts": 1050,
+        "no_of_followers": 38000,
+        "no_of_following": 410,
+        "name": "DeepTech USA",
+        "type_of_page": "Media",
+        "bio": "\ud83d\udee0\ufe0f AI + Robotics + Semiconductors\ndeeptechusa.ai"
+    },
+    {
+        "username": "startupdating_sf",
+        "no_of_posts": 158,
+        "no_of_followers": 6500,
+        "no_of_following": 55,
+        "name": "Startup Dating SF",
+        "type_of_page": "Blog",
+        "bio": "\ud83d\udc94 Founders + Investors = Drama\n\ud83d\udccd San Francisco\nmedium.com/startupdatingsf"
+    },
+    {
+        "username": "coding_spanish",
+        "no_of_posts": 220,
+        "no_of_followers": 9800,
+        "no_of_following": 210,
+        "name": "Carlos Mendez",
+        "type_of_page": "Tech Creator",
+        "bio": "\ud83d\udcbb Python + Spanish Tutorials\n\ud83c\udf0e Miami\nyoutube.com/@carloscodifica"
+    },
+    {
+        "username": "soma_hustlers",
+        "no_of_posts": 920,
+        "no_of_followers": 25300,
+        "no_of_following": 420,
+        "name": "SoMa Hustlers",
+        "type_of_page": "Lifestyle",
+        "bio": "\ud83d\udcbc Startups, events, coworking\nsomahustlers.com"
+    },
+    {
+        "username": "mlops_sf",
+        "no_of_posts": 245,
+        "no_of_followers": 8900,
+        "no_of_following": 95,
+        "name": "MLOps San Francisco",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udee0\ufe0f ML infrastructure | Deployments\nmlopssf.io"
+    },
+    {
+        "username": "producthunt_seattle",
+        "no_of_posts": 390,
+        "no_of_followers": 14200,
+        "no_of_following": 260,
+        "name": "Product Hunt Seattle",
+        "type_of_page": "Media",
+        "bio": "\ud83d\ude80 New launches from Seattle builders\nproducthuntseattle.com"
+    },
+    {
+        "username": "ai_research_mit",
+        "no_of_posts": 195,
+        "no_of_followers": 11400,
+        "no_of_following": 85,
+        "name": "AI Research Boston",
+        "type_of_page": "Education",
+        "bio": "\ud83d\udcc4 Papers, datasets, repos\nairesearchboston.org"
+    },
+    {
+        "username": "fullstack_dev_miami",
+        "no_of_posts": 105,
+        "no_of_followers": 2900,
+        "no_of_following": 48,
+        "name": "Ana Martinez",
+        "type_of_page": "Developer",
+        "bio": "\ud83c\udf08 Full-stack tutorials\n\ud83d\udccd Miami Beach\nanamartinez.tech"
+    },
+    {
+        "username": "austin_bike_coder",
+        "no_of_posts": 72,
+        "no_of_followers": 1650,
+        "no_of_following": 42,
+        "name": "Tom Harris",
+        "type_of_page": "Coder",
+        "bio": "\ud83d\udeb4 Cycling around Austin\n\ud83d\udccd Lady Bird Lake\nstrava.com/tomaustin"
+    },
+    {
+        "username": "codewithcoffee_portland",
+        "no_of_posts": 125,
+        "no_of_followers": 4600,
+        "no_of_following": 68,
+        "name": "Coffee + Code PDX",
+        "type_of_page": "Lifestyle",
+        "bio": "\u2615 Coffee spots + dev stories\ncoffeeandcodepdx.com"
+    },
+    {
+        "username": "sf_startuplab",
+        "no_of_posts": 265,
+        "no_of_followers": 16500,
+        "no_of_following": 220,
+        "name": "Startup Lab SF",
+        "type_of_page": "Community",
+        "bio": "\ud83e\uddea Experiments with early-stage founders\nsfstartuplab.com"
+    },
+    {
+        "username": "pythonforkids_seattle",
+        "no_of_posts": 112,
+        "no_of_followers": 3500,
+        "no_of_following": 35,
+        "name": "Python Kids Seattle",
+        "type_of_page": "Education",
+        "bio": "\ud83d\udc76 Coding classes for kids\npythonforkidsseattle.io"
+    },
+    {
+        "username": "devrel_sf",
+        "no_of_posts": 210,
+        "no_of_followers": 10600,
+        "no_of_following": 95,
+        "name": "DevRel San Francisco",
+        "type_of_page": "Community",
+        "bio": "\ud83c\udfa4 Talks | Dev advocacy | Tools\ndevrelsf.org"
+    },
+    {
+        "username": "tech_memes_sv",
+        "no_of_posts": 420,
+        "no_of_followers": 22000,
+        "no_of_following": 360,
+        "name": "Tech Memes SV",
+        "type_of_page": "Comedy",
+        "bio": "\ud83d\ude02 Silicon Valley office jokes\nbit.ly/svtechmemes"
+    },
+    {
+        "username": "downtown_designstudio",
+        "no_of_posts": 480,
+        "no_of_followers": 12700,
+        "no_of_following": 390,
+        "name": "Downtown Design Studio",
+        "type_of_page": "Design",
+        "bio": "\ud83d\udd8c\ufe0f Freelance UI/UX\n\ud83d\udccd Seattle\ndowntowndesignstudio.io"
+    },
+    {
+        "username": "kaggler_sf",
+        "no_of_posts": 155,
+        "no_of_followers": 5800,
+        "no_of_following": 58,
+        "name": "Kaggle San Francisco",
+        "type_of_page": "Data Science",
+        "bio": "\ud83d\udcca Competitions, kernels\nkagglersf.com"
+    },
+    {
+        "username": "datascience_biker",
+        "no_of_posts": 88,
+        "no_of_followers": 2200,
+        "no_of_following": 45,
+        "name": "Ryan Moore",
+        "type_of_page": "Data Scientist",
+        "bio": "\ud83c\udfcd\ufe0f Rides + ML\n\ud83d\udccd Denver\nryanml.dev"
+    },
+    {
+        "username": "bootcamp_sf",
+        "no_of_posts": 380,
+        "no_of_followers": 11900,
+        "no_of_following": 110,
+        "name": "San Francisco Bootcamp",
+        "type_of_page": "Education",
+        "bio": "\ud83d\udc69\u200d\ud83d\udcbb Coding bootcamps & workshops\nbootcampsf.io"
+    },
+    {
+        "username": "buildinpublic_austin",
+        "no_of_posts": 310,
+        "no_of_followers": 8400,
+        "no_of_following": 72,
+        "name": "Build in Public Austin",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcc8 Indie hackers & SaaS founders\nbuildinpublicaustin.com"
+    },
+    {
+        "username": "techassociation_global",
+        "no_of_posts": 2180,
+        "no_of_followers": 9200,
+        "no_of_following": 340,
+        "name": "Global Tech Association",
+        "type_of_page": "Nonprofit organization",
+        "bio": "The association of tech professionals worldwide.\nglobaltechassoc.org"
+    },
+    {
+        "username": "_techanchor_usa",
+        "no_of_posts": 2100,
+        "no_of_followers": 890000,
+        "no_of_following": 310,
+        "name": "Michael Stevens",
+        "type_of_page": "Digital creator",
+        "bio": "Tech Anchor, TechNews Network. Most trusted tech journalist in USA\nLet's talk about technology and innovation\nContact: mstevens@technews.com\ntechnews.com/michael-stevens"
+    },
+    {
+        "username": "travel_tech_blogger",
+        "no_of_posts": 185,
+        "no_of_followers": 340,
+        "no_of_following": 15,
+        "name": "The Nomad Notebook | Travel | Tech",
+        "type_of_page": "Blogger",
+        "bio": "\ud83d\udccd Exploring cities & tech hubs \ud83c\udf0d\n.\n\ud83c\udf75 From coffee shops to conferences \u2708\ufe0f\n.\n\ud83d\udcab Travel | Tech | Lifestyle \ud83c\udf38\nyoutube.com/@nomadnotebook"
+    },
+    {
+        "username": "sf_tech_bro",
+        "no_of_posts": 465,
+        "no_of_followers": 18200,
+        "no_of_following": 1200,
+        "name": "Kevin | SoMa Hustler",
+        "type_of_page": "Entrepreneur",
+        "bio": "\ud83d\ude80 Building the next Unicorn in AI\n\u2615 Blue Bottle Coffee addict\n\ud83d\udcbb Python | React | ML\n\ud83d\udccd San Francisco, CA\nlinktr.ee/kevinbuilds"
+    },
+    {
+        "username": "highway_101_survivor",
+        "no_of_posts": 68,
+        "no_of_followers": 1650,
+        "no_of_following": 72,
+        "name": "Jennifer Wu",
+        "type_of_page": "Public Figure",
+        "bio": "\ud83d\udea6 Stuck in traffic since 2018\n\ud83c\udf27\ufe0f Missing the California sunshine in Seattle\n\ud83d\udc0d Data Scientist by day, blogger by night\n\ud83d\udccd Highway 101\nbit.ly/my-commute-rants"
+    },
+    {
+        "username": "startuphub_sv",
+        "no_of_posts": 2850,
+        "no_of_followers": 62000,
+        "no_of_following": 180,
+        "name": "Startup Hub Silicon Valley",
+        "type_of_page": "Media",
+        "bio": "\ud83e\udd84 News from Silicon Valley\n\ud83d\udce2 Funding alerts, Hiring trends, Drama\n\ud83d\udce9 DM for features\nstartuphubsv.com/newsletter"
+    },
+    {
+        "username": "foodie_in_soma",
+        "no_of_posts": 1050,
+        "no_of_followers": 8900,
+        "no_of_following": 520,
+        "name": "Sophie | SF Eats",
+        "type_of_page": "Food & Drink",
+        "bio": "Tartine to Blue Bottle \ud83c\udf54\nExploring San Francisco's food scene \u2615\nDM for collabs\nsophieeats.com"
+    },
+    {
+        "username": "venture_victoria",
+        "no_of_posts": 145,
+        "no_of_followers": 42000,
+        "no_of_following": 680,
+        "name": "Victoria Chen | Angel Investor",
+        "type_of_page": "Investor",
+        "bio": "\ud83d\udcb8 Helping founders go 0 to 1\nEx-Meta, Ex-Google\nInvesting in AI & DeepTech\n\ud83d\udccd Palo Alto\nvictoriavc.io"
+    },
+    {
+        "username": "python_meetup_seattle",
+        "no_of_posts": 75,
+        "no_of_followers": 4900,
+        "no_of_following": 18,
+        "name": "PySeattle Community",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udc0d Weekly meetups for Pythonistas\n\ud83d\udccd Capitol Hill | Sundays 3 PM\nCoding + Coffee + Community\nmeetup.com/pyseattle"
+    },
+    {
+        "username": "sf_insider_blog",
+        "no_of_posts": 380,
+        "no_of_followers": 12400,
+        "no_of_following": 32,
+        "name": "San Francisco Insider",
+        "type_of_page": "Personal Blog",
+        "bio": "Not just about Market Street \ud83e\udd2b\nSpilling tea on best brunches and tech drama\nSan Francisco\nmedium.com/@sfinsider"
+    },
+    {
+        "username": "techtrail_seattle",
+        "no_of_posts": 420,
+        "no_of_followers": 12800,
+        "no_of_following": 280,
+        "name": "Tech Trail Seattle",
+        "type_of_page": "Media",
+        "bio": "\ud83d\ude80 Startup scoops & tech news\n\ud83d\udca1 Covering Seattle tech scene\n\ud83d\udccd Seattle\nlinktr.ee/techtrailseattle"
+    },
+    {
+        "username": "soma_coder",
+        "no_of_posts": 145,
+        "no_of_followers": 3900,
+        "no_of_following": 125,
+        "name": "SoMa Coder",
+        "type_of_page": "Personal Blog",
+        "bio": "\ud83d\udcbb Daily coding challenges\n\u2615 Cafe-hopping + LeetCode\n\ud83d\udccd San Francisco\nsomacoder.dev"
+    },
+    {
+        "username": "seattle_cowork_chronicles",
+        "no_of_posts": 560,
+        "no_of_followers": 9200,
+        "no_of_following": 240,
+        "name": "Cowork Chronicles Seattle",
+        "type_of_page": "Community",
+        "bio": "\ud83c\udfe2 Exploring coworking spaces\n\ud83d\udc68\u200d\ud83d\udcbb For freelancers & founders\n\ud83d\udccd Seattle\nbit.ly/cowork-seattle"
+    },
+    {
+        "username": "devhub_austin",
+        "no_of_posts": 245,
+        "no_of_followers": 6200,
+        "no_of_following": 88,
+        "name": "DevHub Austin",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udc68\u200d\ud83d\udcbb Weekly coding meetups\n\ud83d\udcda React | Python | AI\n\ud83d\udccd East Austin\ndevhubaustin.com"
+    },
+    {
+        "username": "ai_boston",
+        "no_of_posts": 175,
+        "no_of_followers": 20500,
+        "no_of_following": 190,
+        "name": "AI Boston",
+        "type_of_page": "Tech",
+        "bio": "\ud83e\udd16 AI trends, events & demos\n\ud83d\udccd Boston\nai-boston.tech"
+    },
+    {
+        "username": "frontend_nyc",
+        "no_of_posts": 118,
+        "no_of_followers": 5600,
+        "no_of_following": 45,
+        "name": "Frontend NYC",
+        "type_of_page": "Community",
+        "bio": "\ud83c\udfa8 UI/UX | Web Dev | Tailwind\n\ud83d\udccd Brooklyn\nfrontendnyc.dev"
+    },
+    {
+        "username": "startup_stories_sv",
+        "no_of_posts": 720,
+        "no_of_followers": 28000,
+        "no_of_following": 420,
+        "name": "Silicon Valley Startup Stories",
+        "type_of_page": "Media",
+        "bio": "\ud83e\udd84 Founder journeys from SV\n\ud83d\udccd Bay Area\nsvstartups.io"
+    },
+    {
+        "username": "python_master_la",
+        "no_of_posts": 92,
+        "no_of_followers": 2300,
+        "no_of_following": 58,
+        "name": "Python Master LA",
+        "type_of_page": "Educator",
+        "bio": "\ud83d\udc0d Python tips daily\n\ud83d\udccd Los Angeles\npythonmasterla.io"
+    },
+    {
+        "username": "portland_dev_cafe",
+        "no_of_posts": 168,
+        "no_of_followers": 3100,
+        "no_of_following": 160,
+        "name": "Dev Caf\u00e9 Portland",
+        "type_of_page": "Community",
+        "bio": "\u2615 Coffee + Code sessions\n\ud83d\udccd Pearl District\nlinktr.ee/portlanddevcafe"
+    },
+    {
+        "username": "automation_club_sf",
+        "no_of_posts": 105,
+        "no_of_followers": 7900,
+        "no_of_following": 92,
+        "name": "Automation Club SF",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udee0\ufe0f RPA | Python Scripts | AI\n\ud83d\udccd San Francisco\nautomationclubsf.io"
+    },
+    {
+        "username": "coding_austin",
+        "no_of_posts": 85,
+        "no_of_followers": 1820,
+        "no_of_following": 22,
+        "name": "Coding Austin",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udc68\u200d\ud83d\udcbb Weekly coding walks\n\ud83d\udccd Austin\nbit.ly/coding-austin"
+    },
+    {
+        "username": "devlife_seattle",
+        "no_of_posts": 510,
+        "no_of_followers": 24000,
+        "no_of_following": 580,
+        "name": "DevLife Seattle",
+        "type_of_page": "Blog",
+        "bio": "\ud83d\udcbc Life of Seattle developers\n\u2615 Cafes, layoffs & tech culture\ndevlifeseattle.medium.com"
+    },
+    {
+        "username": "cloud_denver",
+        "no_of_posts": 185,
+        "no_of_followers": 12800,
+        "no_of_following": 280,
+        "name": "Cloud Denver",
+        "type_of_page": "Tech",
+        "bio": "\u2601\ufe0f Cloud + DevOps content\n\ud83d\udccd Denver\nclouddenver.dev"
+    },
+    {
+        "username": "seattle_backend_coder",
+        "no_of_posts": 125,
+        "no_of_followers": 4500,
+        "no_of_following": 78,
+        "name": "Seattle Backend Coder",
+        "type_of_page": "Personal Blog",
+        "bio": "\ud83d\udcbb Python backend dev\n\ud83d\udccd Capitol Hill\nseattlebackend.dev"
+    },
+    {
+        "username": "sf_datascience_club",
+        "no_of_posts": 290,
+        "no_of_followers": 17200,
+        "no_of_following": 150,
+        "name": "SF Data Science Club",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcca ML sessions + Kaggle nights\n\ud83d\udccd Financial District\ndatasciencesf.club"
+    },
+    {
+        "username": "mobile_devs_nyc",
+        "no_of_posts": 158,
+        "no_of_followers": 5800,
+        "no_of_following": 110,
+        "name": "NYC Mobile Devs",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcf1 Flutter | React Native\n\ud83d\udccd Manhattan\nnycmobiledevs.io"
+    },
+    {
+        "username": "react_seattle",
+        "no_of_posts": 365,
+        "no_of_followers": 18500,
+        "no_of_following": 280,
+        "name": "React Seattle",
+        "type_of_page": "Community",
+        "bio": "\u269b\ufe0f React meetups & workshops\n\ud83d\udccd Seattle\nreactseattle.dev"
+    },
+    {
+        "username": "devs_of_portland",
+        "no_of_posts": 225,
+        "no_of_followers": 9100,
+        "no_of_following": 210,
+        "name": "Portland Devs",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcbb Tech + productivity\n\ud83d\udccd Portland\nportlanddevs.io"
+    },
+    {
+        "username": "downtown_debugger",
+        "no_of_posts": 92,
+        "no_of_followers": 2800,
+        "no_of_following": 42,
+        "name": "Downtown Debugger",
+        "type_of_page": "Blog",
+        "bio": "\ud83d\udc1e Debugging life & code\n\ud83d\udccd San Francisco\nbit.ly/downtown-debugger"
+    },
+    {
+        "username": "sf_ai_meetup",
+        "no_of_posts": 102,
+        "no_of_followers": 10200,
+        "no_of_following": 35,
+        "name": "SF AI Meetup",
+        "type_of_page": "Community",
+        "bio": "\ud83e\udd16 AI jam sessions\n\ud83d\udccd Mission District\nsfaimeet.club"
+    },
+    {
+        "username": "seattle_techie",
+        "no_of_posts": 280,
+        "no_of_followers": 7400,
+        "no_of_following": 280,
+        "name": "Seattle Tech Guy",
+        "type_of_page": "Public Figure",
+        "bio": "\ud83d\udcbc Big Tech employee life\n\ud83d\udccd Amazon Campus\nseattletechguy.com"
+    },
+    {
+        "username": "startup_grind_sf",
+        "no_of_posts": 1350,
+        "no_of_followers": 52000,
+        "no_of_following": 580,
+        "name": "Startup Grind San Francisco",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udd25 Founder wisdom + events\n\ud83d\udccd San Francisco\nstartupgrind.com/san-francisco"
+    },
+    {
+        "username": "coding_in_brooklyn",
+        "no_of_posts": 78,
+        "no_of_followers": 1550,
+        "no_of_following": 38,
+        "name": "Coding in Brooklyn",
+        "type_of_page": "Personal Blog",
+        "bio": "\ud83d\udc68\u200d\ud83d\udcbb Python & JS notes\n\ud83d\udccd Williamsburg\nbit.ly/coding-brooklyn"
+    },
+    {
+        "username": "devwalk_seattle",
+        "no_of_posts": 62,
+        "no_of_followers": 1250,
+        "no_of_following": 22,
+        "name": "Dev Walk Seattle",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udeb6\u200d\u2642\ufe0f Walk + talk tech\n\ud83d\udccd Pike Place\ndevwalkseattle.io"
+    },
+    {
+        "username": "austin_qa_hunter",
+        "no_of_posts": 132,
+        "no_of_followers": 5400,
+        "no_of_following": 105,
+        "name": "Austin QA Hunter",
+        "type_of_page": "Blog",
+        "bio": "\ud83d\udc1b QA life in Austin\n\ud83d\udccd South Austin\naustinqahunter.com"
+    },
+    {
+        "username": "coders_space_sf",
+        "no_of_posts": 410,
+        "no_of_followers": 34000,
+        "no_of_following": 420,
+        "name": "SF Coders Space",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udc68\u200d\ud83d\udcbb Coding news, memes\n\ud83d\udccd San Francisco\nsfcodersspace.io"
+    },
+    {
+        "username": "nextjs_nyc",
+        "no_of_posts": 58,
+        "no_of_followers": 3200,
+        "no_of_following": 55,
+        "name": "Next.js NYC",
+        "type_of_page": "Community",
+        "bio": "\u26a1 Modern web dev meetups\n\ud83d\udccd Manhattan\nnextjsnyc.dev"
+    },
+    {
+        "username": "techpark_thoughts",
+        "no_of_posts": 155,
+        "no_of_followers": 8200,
+        "no_of_following": 140,
+        "name": "Tech Campus Thoughts",
+        "type_of_page": "Blog",
+        "bio": "\ud83c\udfe2 Meta | Google | Apple campus life\n\ud83d\udccd Silicon Valley\nmedium.com/@techcampusthoughts"
+    },
+    {
+        "username": "sf_freelancers",
+        "no_of_posts": 240,
+        "no_of_followers": 5600,
+        "no_of_following": 98,
+        "name": "San Francisco Freelancers",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcbb Remote work + gigs\n\ud83d\udccd San Francisco\nsffreelancers.co"
+    },
+    {
+        "username": "tech_jobs_seattle",
+        "no_of_posts": 680,
+        "no_of_followers": 28000,
+        "no_of_following": 260,
+        "name": "Seattle Tech Jobs",
+        "type_of_page": "Media",
+        "bio": "\ud83d\udcbc Hiring in tech daily\n\ud83d\udccd Seattle\nseattletechjobs.io"
+    },
+    {
+        "username": "datascience_daily_portland",
+        "no_of_posts": 175,
+        "no_of_followers": 12100,
+        "no_of_following": 190,
+        "name": "DS Daily Portland",
+        "type_of_page": "Education",
+        "bio": "\ud83d\udcca ML tricks & resources\n\ud83d\udccd Portland\ndsdailypdx.com"
+    },
+    {
+        "username": "python_austin",
+        "no_of_posts": 55,
+        "no_of_followers": 1180,
+        "no_of_following": 18,
+        "name": "Python Austin",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udc0d Weekly Python tasks\n\ud83d\udccd Austin\nbit.ly/python-austin"
+    },
+    {
+        "username": "coding_coffee_la",
+        "no_of_posts": 340,
+        "no_of_followers": 13800,
+        "no_of_following": 310,
+        "name": "Coding Coffee LA",
+        "type_of_page": "Blog",
+        "bio": "\u2615 Code + coffee\n\ud83d\udccd Santa Monica\ncodingcoffeela.io"
+    },
+    {
+        "username": "git_community_sf",
+        "no_of_posts": 92,
+        "no_of_followers": 4500,
+        "no_of_following": 28,
+        "name": "Git Community SF",
+        "type_of_page": "Tech",
+        "bio": "\ud83d\udd27 Git tips & collab sessions\n\ud83d\udccd San Francisco\ngitsf.dev"
+    },
+    {
+        "username": "seattle_startups",
+        "no_of_posts": 395,
+        "no_of_followers": 17200,
+        "no_of_following": 140,
+        "name": "Seattle Startups",
+        "type_of_page": "Media",
+        "bio": "\ud83e\udd84 Spotlight on early-stage founders\n\ud83d\udccd Seattle\nseattlestartups.io"
+    },
+    {
+        "username": "machinelearning_boston",
+        "no_of_posts": 255,
+        "no_of_followers": 25000,
+        "no_of_following": 340,
+        "name": "Machine Learning Boston",
+        "type_of_page": "Tech",
+        "bio": "\ud83e\udd16 ML articles & demos\n\ud83d\udccd Boston\nmlboston.tech"
+    },
+    {
+        "username": "soma_script_learner",
+        "no_of_posts": 68,
+        "no_of_followers": 1450,
+        "no_of_following": 25,
+        "name": "Script Learner SF",
+        "type_of_page": "Personal Blog",
+        "bio": "\ud83d\udcbb Learning Python & JS\n\ud83d\udccd San Francisco\nscriptlearnersf.dev"
+    },
+    {
+        "username": "austin_dev_community",
+        "no_of_posts": 145,
+        "no_of_followers": 3800,
+        "no_of_following": 58,
+        "name": "Austin Dev Buddy",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udc68\u200d\ud83d\udcbb Peer learning club\n\ud83d\udccd Austin\naustindevbuddy.io"
+    },
+    {
+        "username": "cloud_hackers_seattle",
+        "no_of_posts": 172,
+        "no_of_followers": 10800,
+        "no_of_following": 280,
+        "name": "Seattle Cloud Hackers",
+        "type_of_page": "Tech",
+        "bio": "\u2601\ufe0f AWS | Azure | GCP\n\ud83d\udccd Seattle\ncloudhackersseattle.io"
+    },
+    {
+        "username": "techwriter_sf",
+        "no_of_posts": 75,
+        "no_of_followers": 2600,
+        "no_of_following": 72,
+        "name": "SF Tech Writer",
+        "type_of_page": "Writer",
+        "bio": "\ud83d\udcdd Tech explainers\n\ud83d\udccd San Francisco\nmedium.com/@sftechwriter"
+    },
+    {
+        "username": "dev_lunch_sf",
+        "no_of_posts": 215,
+        "no_of_followers": 7400,
+        "no_of_following": 165,
+        "name": "Dev Lunch",
+        "type_of_page": "Community",
+        "bio": "\ud83c\udf54 Food + code meetups\n\ud83d\udccd San Francisco\ndevlunchsf.com"
+    },
+    {
+        "username": "python_teacher_seattle",
+        "no_of_posts": 85,
+        "no_of_followers": 5800,
+        "no_of_following": 48,
+        "name": "Python Teacher Seattle",
+        "type_of_page": "Educator",
+        "bio": "\ud83d\udc0d Python + data tutorials\n\ud83d\udccd Seattle\npythonteacherseattle.io"
+    },
+    {
+        "username": "seattle_opensource",
+        "no_of_posts": 305,
+        "no_of_followers": 13400,
+        "no_of_following": 125,
+        "name": "Seattle Open Source",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udee0\ufe0f OSS projects & contributions\n\ud83d\udccd Seattle\nossseattle.dev"
+    },
+    {
+        "username": "ai_founders_sf",
+        "no_of_posts": 102,
+        "no_of_followers": 9100,
+        "no_of_following": 95,
+        "name": "SF AI Founders",
+        "type_of_page": "Entrepreneur",
+        "bio": "\ud83e\udd16 AI startup builders\n\ud83d\udccd San Francisco\naifoundersf.com"
+    },
+    {
+        "username": "coders_of_sf",
+        "no_of_posts": 365,
+        "no_of_followers": 23000,
+        "no_of_following": 390,
+        "name": "Coders of San Francisco",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udc68\u200d\ud83d\udcbb Showcasing SF devs\n\ud83d\udccd San Francisco\ncodersofsf.io"
+    },
+    {
+        "username": "dailydev_seattle",
+        "no_of_posts": 218,
+        "no_of_followers": 16800,
+        "no_of_following": 280,
+        "name": "Daily Dev Seattle",
+        "type_of_page": "Tech",
+        "bio": "\ud83d\udcdd Tips | Tools | Tutorials\n\ud83d\udccd Seattle\ndailydevseattle.io"
+    },
+    {
+        "username": "backend_devs_austin",
+        "no_of_posts": 108,
+        "no_of_followers": 6600,
+        "no_of_following": 85,
+        "name": "Austin Backend Devs",
+        "type_of_page": "Tech",
+        "bio": "\ud83d\udd27 Python | Go | Node\n\ud83d\udccd Austin\nbackendaustin.tech"
+    },
+    {
+        "username": "seattle_amazon_life",
+        "no_of_posts": 168,
+        "no_of_followers": 5400,
+        "no_of_following": 78,
+        "name": "Seattle Tech Life",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcbc Tech campus life\n\ud83d\udccd South Lake Union\nseattletechlife.io"
+    },
+    {
+        "username": "fullstack_portland_club",
+        "no_of_posts": 135,
+        "no_of_followers": 9900,
+        "no_of_following": 118,
+        "name": "Fullstack Portland Club",
+        "type_of_page": "Community",
+        "bio": "\ud83d\udcbb MERN | Python | DevOps\n\ud83d\udccd Portland\nfullstackpdx.club"
+    },
+    {
+        "username": "coding_runners_sf",
+        "no_of_posts": 122,
+        "no_of_followers": 3500,
+        "no_of_following": 48,
+        "name": "Coding Runners SF",
+        "type_of_page": "Community",
+        "bio": "\ud83c\udfc3\u200d\u2642\ufe0f Running + coding\n\ud83d\udccd Golden Gate Park\ncodingrunnerssf.io"
+    },
+    {
+        "username": "engineers_diary_seattle",
+        "no_of_posts": 325,
+        "no_of_followers": 11800,
+        "no_of_following": 165,
+        "name": "Engineers Diary Seattle",
+        "type_of_page": "Blog",
+        "bio": "\ud83d\udcd8 Life & tech rants\n\ud83d\udccd Seattle\nmedium.com/@engineersdiaryseattle"
+    }
+]
