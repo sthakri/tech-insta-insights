@@ -1,0 +1,1070 @@
+techie_soma
+385 posts
+12.3K followers
+420 following
+Marcus T.
+Software Engineer
+💻 Full-stack @ Tech Startup
+☕ Working from SoMa coffee shops
+github.com/marcusbuilds
+
+sf_coder_girl
+210 posts
+8,900 followers
+180 following
+Sarah Chen
+Tech Creator
+👩‍💻 React | AI | Career Tips
+🎥 Coding Tutorials + Tech Vlogs
+linktr.ee/sarahcodes
+
+silicon_valley_stories
+1,120 posts
+34.5K followers
+110 following
+Silicon Valley Tales
+Media
+🚀 Interviews with Bay Area founders
+🎙️ Weekly startup deep dives
+svstories.com
+
+cloud_dev_seattle
+340 posts
+6,200 followers
+85 following
+Jake Morrison
+Engineer
+☁️ AWS | Kubernetes | Terraform
+📍 Seattle
+github.com/jakecloud
+
+austin_coffee_coder
+280 posts
+9,400 followers
+210 following
+Emma Rodriguez
+Cafe Explorer
+☕ Reviewing Austin's best coding cafes
+📍 East Austin
+youtube.com/@emmacafecodes
+
+ai_sanfrancisco_news
+1,580 posts
+52K followers
+310 following
+AI San Francisco
+Media
+🤖 Daily AI news from Silicon Valley
+📢 Startup & tech updates
+aisanfrancisco.com/news
+
+techfounder_nyc
+190 posts
+24K followers
+580 following
+David Kim
+Founder
+⚡ Building SaaS in FinTech
+📍 Manhattan
+davidkim.io
+
+coder_in_traffic
+82 posts
+2,400 followers
+95 following
+Tyler Brooks
+Backend Developer
+🐍 Python | Django enthusiast
+🚗 Surviving LA traffic
+github.com/tylerbackend
+
+seattle_datascience_daily
+620 posts
+19.8K followers
+220 following
+Seattle DS Daily
+Media
+📊 Data + AI + ML
+👩‍🏫 Tutorials | Job alerts
+seattledatascience.io
+
+frontend_with_lisa
+195 posts
+10.5K followers
+130 following
+Lisa Anderson
+Frontend Dev
+🎨 Vue | React | Design Systems
+🌸 Portland
+lisacodes.dev
+
+central_park_runner
+110 posts
+2,100 followers
+55 following
+Chris Walker
+Lifestyle
+🏃 Running after coding
+📍 Central Park NYC
+strava.com/chrisrunning
+
+brooklyn_food_tech
+720 posts
+16.7K followers
+240 following
+Brooklyn Food Maps
+Food & Drink
+🍜 Best spots around Brooklyn tech scene
+📍 New York
+brooklynfoodmaps.com
+
+python_sf_jobs
+1,450 posts
+28K followers
+25 following
+Python Jobs SF
+Community
+💼 Python/ML/AI jobs daily
+📍 San Francisco
+pythonsf.jobs
+
+austin_fullstack_dev
+165 posts
+4,800 followers
+78 following
+Miguel Santos
+Full-stack Dev
+🧑‍💻 MERN | Next.js | DevOps
+Currently building from Austin
+miguelsantos.dev
+
+opensource_seattle
+380 posts
+12.4K followers
+110 following
+Seattle Open Source
+Community
+🌐 Meetups | Talks | OSS
+github.com/seattleoss
+
+techwalk_sf
+510 posts
+14.2K followers
+450 following
+Tech Walk San Francisco
+Media
+🚶 Exploring tech offices & cafes
+📍 Financial District | SOMA
+techwalk.sf.com
+
+google_campus_daily
+680 posts
+18.9K followers
+280 following
+Mountain View Daily
+Blog
+🏢 Inside Silicon Valley Life
+🚌 Campus stories included
+medium.com/@mtvdaily
+
+react_native_sf
+275 posts
+6,300 followers
+88 following
+RN San Francisco
+Community
+📱 React Native Tips | Meetups
+rnsf.dev
+
+founder_sketches
+95 posts
+3,100 followers
+32 following
+Alex Chen
+Artist + Coder
+✏️ Startup illustrations
+💻 YC alumnus
+alexsketches.com
+
+sf_productmanager
+185 posts
+9,200 followers
+150 following
+Rachel | PM
+Product Manager
+📍 San Francisco
+🔍 Product teardowns
+rachelpm.com
+
+machinelearning_seattle
+560 posts
+22.4K followers
+190 following
+ML Seattle
+Community
+🤖 Workshops | Resources
+mlseattle.io
+
+nyc_startup_recruiter
+148 posts
+7,800 followers
+420 following
+Jessica HR
+Recruiter
+🦄 Hiring for early-stage startups
+📍 New York City
+jessicarecruit.io
+
+coffeeandcode_austin
+89 posts
+1,850 followers
+62 following
+Brandon Lee
+Developer
+☕ Coffee + VSCode = Happiness
+📍 South Congress
+github.com/brandonaustin
+
+uiux_sf_design
+245 posts
+12.8K followers
+175 following
+UI/UX San Francisco
+Design
+🎨 Case studies, tips, mock UI
+uiuxsf.design
+
+portland_cafe_explorer
+540 posts
+10.2K followers
+340 following
+Olivia Park
+Cafe Nerd
+☕ Portland cafes & reading corners
+📘 Book recommendations
+portlandreads.com
+
+jslover_nyc
+135 posts
+5,400 followers
+48 following
+Nathan Ross
+Engineer
+⚡ JavaScript everything
+📍 Brooklyn
+github.com/nathanjs
+
+la_autotech_talk
+385 posts
+11.7K followers
+380 following
+AutoTech LA
+Media
+🚗 EVs | Autonomous | Mobility
+📍 Los Angeles
+autotechla.com
+
+deeptech_usa
+1,050 posts
+38K followers
+410 following
+DeepTech USA
+Media
+🛠️ AI + Robotics + Semiconductors
+deeptechusa.ai
+
+startupdating_sf
+158 posts
+6,500 followers
+55 following
+Startup Dating SF
+Blog
+💔 Founders + Investors = Drama
+📍 San Francisco
+medium.com/startupdatingsf
+
+coding_spanish
+220 posts
+9,800 followers
+210 following
+Carlos Mendez
+Tech Creator
+💻 Python + Spanish Tutorials
+🌎 Miami
+youtube.com/@carloscodifica
+
+soma_hustlers
+920 posts
+25.3K followers
+420 following
+SoMa Hustlers
+Lifestyle
+💼 Startups, events, coworking
+somahustlers.com
+
+mlops_sf
+245 posts
+8,900 followers
+95 following
+MLOps San Francisco
+Community
+🛠️ ML infrastructure | Deployments
+mlopssf.io
+
+producthunt_seattle
+390 posts
+14.2K followers
+260 following
+Product Hunt Seattle
+Media
+🚀 New launches from Seattle builders
+producthuntseattle.com
+
+ai_research_mit
+195 posts
+11.4K followers
+85 following
+AI Research Boston
+Education
+📄 Papers, datasets, repos
+airesearchboston.org
+
+fullstack_dev_miami
+105 posts
+2,900 followers
+48 following
+Ana Martinez
+Developer
+🌈 Full-stack tutorials
+📍 Miami Beach
+anamartinez.tech
+
+austin_bike_coder
+72 posts
+1,650 followers
+42 following
+Tom Harris
+Coder
+🚴 Cycling around Austin
+📍 Lady Bird Lake
+strava.com/tomaustin
+
+codewithcoffee_portland
+125 posts
+4,600 followers
+68 following
+Coffee + Code PDX
+Lifestyle
+☕ Coffee spots + dev stories
+coffeeandcodepdx.com
+
+sf_startuplab
+265 posts
+16.5K followers
+220 following
+Startup Lab SF
+Community
+🧪 Experiments with early-stage founders
+sfstartuplab.com
+
+pythonforkids_seattle
+112 posts
+3,500 followers
+35 following
+Python Kids Seattle
+Education
+👶 Coding classes for kids
+pythonforkidsseattle.io
+
+devrel_sf
+210 posts
+10.6K followers
+95 following
+DevRel San Francisco
+Community
+🎤 Talks | Dev advocacy | Tools
+devrelsf.org
+
+tech_memes_sv
+420 posts
+22K followers
+360 following
+Tech Memes SV
+Comedy
+😂 Silicon Valley office jokes
+bit.ly/svtechmemes
+
+downtown_designstudio
+480 posts
+12.7K followers
+390 following
+Downtown Design Studio
+Design
+🖌️ Freelance UI/UX
+📍 Seattle
+downtowndesignstudio.io
+
+kaggler_sf
+155 posts
+5,800 followers
+58 following
+Kaggle San Francisco
+Data Science
+📊 Competitions, kernels
+kagglersf.com
+
+datascience_biker
+88 posts
+2,200 followers
+45 following
+Ryan Moore
+Data Scientist
+🏍️ Rides + ML
+📍 Denver
+ryanml.dev
+
+bootcamp_sf
+380 posts
+11.9K followers
+110 following
+San Francisco Bootcamp
+Education
+👩‍💻 Coding bootcamps & workshops
+bootcampsf.io
+
+buildinpublic_austin
+310 posts
+8,400 followers
+72 following
+Build in Public Austin
+Community
+📈 Indie hackers & SaaS founders
+buildinpublicaustin.com
+
+techassociation_global
+2,180 posts
+9,200 followers
+340 following
+Global Tech Association
+Nonprofit organization
+The association of tech professionals worldwide.
+globaltechassoc.org
+
+_techanchor_usa
+2,100 posts
+890K followers
+310 following
+Michael Stevens
+Digital creator
+Tech Anchor, TechNews Network. Most trusted tech journalist in USA
+Let's talk about technology and innovation
+Contact: mstevens@technews.com
+technews.com/michael-stevens
+
+travel_tech_blogger
+185 posts
+340 followers
+15 following
+The Nomad Notebook | Travel | Tech
+Blogger
+📍 Exploring cities & tech hubs 🌍
+.
+🍵 From coffee shops to conferences ✈️
+.
+💫 Travel | Tech | Lifestyle 🌸
+youtube.com/@nomadnotebook
+
+sf_tech_bro
+465 posts
+18.2K followers
+1200 following
+Kevin | SoMa Hustler
+Entrepreneur
+🚀 Building the next Unicorn in AI
+☕ Blue Bottle Coffee addict
+💻 Python | React | ML
+📍 San Francisco, CA
+linktr.ee/kevinbuilds
+
+highway_101_survivor
+68 posts
+1,650 followers
+72 following
+Jennifer Wu
+Public Figure
+🚦 Stuck in traffic since 2018
+🌧️ Missing the California sunshine in Seattle
+🐍 Data Scientist by day, blogger by night
+📍 Highway 101
+bit.ly/my-commute-rants
+
+startuphub_sv
+2,850 posts
+62K followers
+180 following
+Startup Hub Silicon Valley
+Media
+🦄 News from Silicon Valley
+📢 Funding alerts, Hiring trends, Drama
+📩 DM for features
+startuphubsv.com/newsletter
+
+foodie_in_soma
+1,050 posts
+8,900 followers
+520 following
+Sophie | SF Eats
+Food & Drink
+Tartine to Blue Bottle 🍔
+Exploring San Francisco's food scene ☕
+DM for collabs
+sophieeats.com
+
+venture_victoria
+145 posts
+42K followers
+680 following
+Victoria Chen | Angel Investor
+Investor
+💸 Helping founders go 0 to 1
+Ex-Meta, Ex-Google
+Investing in AI & DeepTech
+📍 Palo Alto
+victoriavc.io
+
+python_meetup_seattle
+75 posts
+4,900 followers
+18 following
+PySeattle Community
+Community
+🐍 Weekly meetups for Pythonistas
+📍 Capitol Hill | Sundays 3 PM
+Coding + Coffee + Community
+meetup.com/pyseattle
+
+sf_insider_blog
+380 posts
+12.4K followers
+32 following
+San Francisco Insider
+Personal Blog
+Not just about Market Street 🤫
+Spilling tea on best brunches and tech drama
+San Francisco
+medium.com/@sfinsider
+
+
+techtrail_seattle
+420 posts
+12.8K followers
+280 following
+Tech Trail Seattle
+Media
+🚀 Startup scoops & tech news
+💡 Covering Seattle tech scene
+📍 Seattle
+linktr.ee/techtrailseattle
+
+soma_coder
+145 posts
+3,900 followers
+125 following
+SoMa Coder
+Personal Blog
+💻 Daily coding challenges
+☕ Cafe-hopping + LeetCode
+📍 San Francisco
+somacoder.dev
+
+seattle_cowork_chronicles
+560 posts
+9,200 followers
+240 following
+Cowork Chronicles Seattle
+Community
+🏢 Exploring coworking spaces
+👨‍💻 For freelancers & founders
+📍 Seattle
+bit.ly/cowork-seattle
+
+devhub_austin
+245 posts
+6,200 followers
+88 following
+DevHub Austin
+Community
+👨‍💻 Weekly coding meetups
+📚 React | Python | AI
+📍 East Austin
+devhubaustin.com
+
+ai_boston
+175 posts
+20.5K followers
+190 following
+AI Boston
+Tech
+🤖 AI trends, events & demos
+📍 Boston
+ai-boston.tech
+
+frontend_nyc
+118 posts
+5,600 followers
+45 following
+Frontend NYC
+Community
+🎨 UI/UX | Web Dev | Tailwind
+📍 Brooklyn
+frontendnyc.dev
+
+startup_stories_sv
+720 posts
+28K followers
+420 following
+Silicon Valley Startup Stories
+Media
+🦄 Founder journeys from SV
+📍 Bay Area
+svstartups.io
+
+python_master_la
+92 posts
+2,300 followers
+58 following
+Python Master LA
+Educator
+🐍 Python tips daily
+📍 Los Angeles
+pythonmasterla.io
+
+portland_dev_cafe
+168 posts
+3,100 followers
+160 following
+Dev Café Portland
+Community
+☕ Coffee + Code sessions
+📍 Pearl District
+linktr.ee/portlanddevcafe
+
+automation_club_sf
+105 posts
+7,900 followers
+92 following
+Automation Club SF
+Community
+🛠️ RPA | Python Scripts | AI
+📍 San Francisco
+automationclubsf.io
+
+coding_austin
+85 posts
+1,820 followers
+22 following
+Coding Austin
+Community
+👨‍💻 Weekly coding walks
+📍 Austin
+bit.ly/coding-austin
+
+devlife_seattle
+510 posts
+24K followers
+580 following
+DevLife Seattle
+Blog
+💼 Life of Seattle developers
+☕ Cafes, layoffs & tech culture
+devlifeseattle.medium.com
+
+cloud_denver
+185 posts
+12.8K followers
+280 following
+Cloud Denver
+Tech
+☁️ Cloud + DevOps content
+📍 Denver
+clouddenver.dev
+
+seattle_backend_coder
+125 posts
+4,500 followers
+78 following
+Seattle Backend Coder
+Personal Blog
+💻 Python backend dev
+📍 Capitol Hill
+seattlebackend.dev
+
+sf_datascience_club
+290 posts
+17.2K followers
+150 following
+SF Data Science Club
+Community
+📊 ML sessions + Kaggle nights
+📍 Financial District
+datasciencesf.club
+
+mobile_devs_nyc
+158 posts
+5,800 followers
+110 following
+NYC Mobile Devs
+Community
+📱 Flutter | React Native
+📍 Manhattan
+nycmobiledevs.io
+
+react_seattle
+365 posts
+18.5K followers
+280 following
+React Seattle
+Community
+⚛️ React meetups & workshops
+📍 Seattle
+reactseattle.dev
+
+devs_of_portland
+225 posts
+9,100 followers
+210 following
+Portland Devs
+Community
+💻 Tech + productivity
+📍 Portland
+portlanddevs.io
+
+downtown_debugger
+92 posts
+2,800 followers
+42 following
+Downtown Debugger
+Blog
+🐞 Debugging life & code
+📍 San Francisco
+bit.ly/downtown-debugger
+
+sf_ai_meetup
+102 posts
+10.2K followers
+35 following
+SF AI Meetup
+Community
+🤖 AI jam sessions
+📍 Mission District
+sfaimeet.club
+
+seattle_techie
+280 posts
+7,400 followers
+280 following
+Seattle Tech Guy
+Public Figure
+💼 Big Tech employee life
+📍 Amazon Campus
+seattletechguy.com
+
+startup_grind_sf
+1,350 posts
+52K followers
+580 following
+Startup Grind San Francisco
+Community
+🔥 Founder wisdom + events
+📍 San Francisco
+startupgrind.com/san-francisco
+
+coding_in_brooklyn
+78 posts
+1,550 followers
+38 following
+Coding in Brooklyn
+Personal Blog
+👨‍💻 Python & JS notes
+📍 Williamsburg
+bit.ly/coding-brooklyn
+
+devwalk_seattle
+62 posts
+1,250 followers
+22 following
+Dev Walk Seattle
+Community
+🚶‍♂️ Walk + talk tech
+📍 Pike Place
+devwalkseattle.io
+
+austin_qa_hunter
+132 posts
+5,400 followers
+105 following
+Austin QA Hunter
+Blog
+🐛 QA life in Austin
+📍 South Austin
+austinqahunter.com
+
+coders_space_sf
+410 posts
+34K followers
+420 following
+SF Coders Space
+Community
+👨‍💻 Coding news, memes
+📍 San Francisco
+sfcodersspace.io
+
+nextjs_nyc
+58 posts
+3,200 followers
+55 following
+Next.js NYC
+Community
+⚡ Modern web dev meetups
+📍 Manhattan
+nextjsnyc.dev
+
+techpark_thoughts
+155 posts
+8,200 followers
+140 following
+Tech Campus Thoughts
+Blog
+🏢 Meta | Google | Apple campus life
+📍 Silicon Valley
+medium.com/@techcampusthoughts
+
+sf_freelancers
+240 posts
+5,600 followers
+98 following
+San Francisco Freelancers
+Community
+💻 Remote work + gigs
+📍 San Francisco
+sffreelancers.co
+
+tech_jobs_seattle
+680 posts
+28K followers
+260 following
+Seattle Tech Jobs
+Media
+💼 Hiring in tech daily
+📍 Seattle
+seattletechjobs.io
+
+datascience_daily_portland
+175 posts
+12.1K followers
+190 following
+DS Daily Portland
+Education
+📊 ML tricks & resources
+📍 Portland
+dsdailypdx.com
+
+python_austin
+55 posts
+1,180 followers
+18 following
+Python Austin
+Community
+🐍 Weekly Python tasks
+📍 Austin
+bit.ly/python-austin
+
+coding_coffee_la
+340 posts
+13.8K followers
+310 following
+Coding Coffee LA
+Blog
+☕ Code + coffee
+📍 Santa Monica
+codingcoffeela.io
+
+git_community_sf
+92 posts
+4,500 followers
+28 following
+Git Community SF
+Tech
+🔧 Git tips & collab sessions
+📍 San Francisco
+gitsf.dev
+
+seattle_startups
+395 posts
+17.2K followers
+140 following
+Seattle Startups
+Media
+🦄 Spotlight on early-stage founders
+📍 Seattle
+seattlestartups.io
+
+machinelearning_boston
+255 posts
+25K followers
+340 following
+Machine Learning Boston
+Tech
+🤖 ML articles & demos
+📍 Boston
+mlboston.tech
+
+soma_script_learner
+68 posts
+1,450 followers
+25 following
+Script Learner SF
+Personal Blog
+💻 Learning Python & JS
+📍 San Francisco
+scriptlearnersf.dev
+
+austin_dev_community
+145 posts
+3,800 followers
+58 following
+Austin Dev Buddy
+Community
+👨‍💻 Peer learning club
+📍 Austin
+austindevbuddy.io
+
+cloud_hackers_seattle
+172 posts
+10.8K followers
+280 following
+Seattle Cloud Hackers
+Tech
+☁️ AWS | Azure | GCP
+📍 Seattle
+cloudhackersseattle.io
+
+techwriter_sf
+75 posts
+2,600 followers
+72 following
+SF Tech Writer
+Writer
+📝 Tech explainers
+📍 San Francisco
+medium.com/@sftechwriter
+
+dev_lunch_sf
+215 posts
+7,400 followers
+165 following
+Dev Lunch
+Community
+🍔 Food + code meetups
+📍 San Francisco
+devlunchsf.com
+
+python_teacher_seattle
+85 posts
+5,800 followers
+48 following
+Python Teacher Seattle
+Educator
+🐍 Python + data tutorials
+📍 Seattle
+pythonteacherseattle.io
+
+seattle_opensource
+305 posts
+13.4K followers
+125 following
+Seattle Open Source
+Community
+🛠️ OSS projects & contributions
+📍 Seattle
+ossseattle.dev
+
+ai_founders_sf
+102 posts
+9,100 followers
+95 following
+SF AI Founders
+Entrepreneur
+🤖 AI startup builders
+📍 San Francisco
+aifoundersf.com
+
+coders_of_sf
+365 posts
+23K followers
+390 following
+Coders of San Francisco
+Community
+👨‍💻 Showcasing SF devs
+📍 San Francisco
+codersofsf.io
+
+dailydev_seattle
+218 posts
+16.8K followers
+280 following
+Daily Dev Seattle
+Tech
+📝 Tips | Tools | Tutorials
+📍 Seattle
+dailydevseattle.io
+
+backend_devs_austin
+108 posts
+6,600 followers
+85 following
+Austin Backend Devs
+Tech
+🔧 Python | Go | Node
+📍 Austin
+backendaustin.tech
+
+seattle_amazon_life
+168 posts
+5,400 followers
+78 following
+Seattle Tech Life
+Community
+💼 Tech campus life
+📍 South Lake Union
+seattletechlife.io
+
+fullstack_portland_club
+135 posts
+9,900 followers
+118 following
+Fullstack Portland Club
+Community
+💻 MERN | Python | DevOps
+📍 Portland
+fullstackpdx.club
+
+coding_runners_sf
+122 posts
+3,500 followers
+48 following
+Coding Runners SF
+Community
+🏃‍♂️ Running + coding
+📍 Golden Gate Park
+codingrunnerssf.io
+
+engineers_diary_seattle
+325 posts
+11.8K followers
+165 following
+Engineers Diary Seattle
+Blog
+📘 Life & tech rants
+📍 Seattle
+medium.com/@engineersdiaryseattle
